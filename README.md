@@ -1,4 +1,4 @@
-# Desafio 04 - Análise e Modelagem de Dados
+# Análise e Modelagem de Dados
 
 Este projeto consiste na análise exploratória e modelagem preditiva de um conjunto de dados de marketing, com o objetivo de prever o volume de vendas a partir dos investimentos realizados em mídias como YouTube, Facebook e Jornal.
 
